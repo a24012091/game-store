@@ -50,3 +50,11 @@ body {
     background-repeat: no-repeat;
     border-bottom: 5px solid;
 }
+
+/* Section Slide 1 */
+
+.slide1{
+    width: 100%;
+    height: 175px;
+    background-color: red;
+}
